@@ -27,6 +27,8 @@ public class LionParameterizedTest {
         };
     }
 
+
+
     @Test
     public void doesHaveManeTest() throws Exception {
         Lion lion = new Lion(feline, sex);
